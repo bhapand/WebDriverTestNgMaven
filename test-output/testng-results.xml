@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Online Learning" duration-ms="5608" started-at="2016-06-12T19:25:52Z" finished-at="2016-06-12T19:25:58Z">
+    <groups>
+    </groups>
+    <test name="Testing the Links" duration-ms="1523" started-at="2016-06-12T19:25:52Z" finished-at="2016-06-12T19:25:54Z">
+      <class name="dd_test.AllLinks">
+        <test-method status="PASS" signature="allLinks()[pri:0, instance:dd_test.AllLinks@79e2c065]" name="allLinks" duration-ms="1495" started-at="2016-06-12T15:25:52Z" finished-at="2016-06-12T15:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allLinks -->
+      </class> <!-- dd_test.AllLinks -->
+    </test> <!-- Testing the Links -->
+    <test name="Testing the Drop Downs" duration-ms="4005" started-at="2016-06-12T19:25:54Z" finished-at="2016-06-12T19:25:58Z">
+      <class name="dd_test.DropDowns">
+        <test-method status="PASS" signature="dropDowns()[pri:0, instance:dd_test.DropDowns@223191a6]" name="dropDowns" duration-ms="3998" started-at="2016-06-12T15:25:54Z" finished-at="2016-06-12T15:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDowns -->
+      </class> <!-- dd_test.DropDowns -->
+    </test> <!-- Testing the Drop Downs -->
+    <test name="Testing the Texts" duration-ms="17" started-at="2016-06-12T19:25:58Z" finished-at="2016-06-12T19:25:58Z">
+      <class name="dd_test.Texts">
+        <test-method status="PASS" signature="init()[pri:0, instance:dd_test.Texts@67c27493]" name="init" is-config="true" duration-ms="8124" started-at="2016-06-12T15:25:44Z" finished-at="2016-06-12T15:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="texts()[pri:0, instance:dd_test.Texts@67c27493]" name="texts" duration-ms="13" started-at="2016-06-12T15:25:58Z" finished-at="2016-06-12T15:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- texts -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:dd_test.Texts@67c27493]" name="quitBrowser" is-config="true" duration-ms="1347" started-at="2016-06-12T15:25:58Z" finished-at="2016-06-12T15:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- dd_test.Texts -->
+    </test> <!-- Testing the Texts -->
+  </suite> <!-- TestNG Online Learning -->
+</testng-results>

@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Online Learning">
+
+
+<test name="Testing the Links">
+    <classes>
+        <class name="dd_test.AllLinks" ></class>  
+    </classes>
+</test>
+
+<test name="Testing the Drop Downs">
+    <classes>
+        <class name="dd_test.DropDowns" ></class>  
+    </classes>
+</test>
+
+<test name="Testing the Texts">
+    <classes>
+        <class name="dd_test.Texts" ></class>  
+    </classes>
+</test>
+
+</suite>
